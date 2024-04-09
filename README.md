@@ -1,11 +1,11 @@
-# 3rdyearproject
+# Final Year Project (BEng Mechanical Engineering with Business and Finance)
 
 A Deep Learning ECG Algorithm for Prediction
 of Atrial Fibrillation and Major Adverse
 Cardiovascular Events in Individuals without
 Prevalent Cardiovascular Disease
 
-Abstract:
+# Abstract:
 
 The electrocardiogram (ECG) records the electrical activity of the heart which is undergoing a
 continuous depolarization-repolarization cycle. Medical professionals currently use the ECG to assess
